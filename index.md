@@ -12,5 +12,6 @@ Que s'est-il passé en coulisses ?
 
 *Où êtes-vous actuellement ?*
 Vous êtes dans une *zone de rupture*. Ce n'est pas une simple "Erreur 404". C'est un espace suspendu, très instable, où les mots et les clics n'ont plus vraiment de sens. Ne restez pas trop longtemps, c'est mauvais pour le karma numérique.
+
 👉 Initier une transition sécurisée vers le VRAI site (newgekko.com)
 (Promis, de l'autre côté, les choses sont beaucoup plus stables).
