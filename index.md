@@ -1,20 +1,54 @@
-# newgekko.com
+🚨 **Anomalie de cohérence détectée**
 
-## 🚨 Alerte : Collision de réalités détectée
-Félicitations ! Votre navigateur vient de tenter une manœuvre interdite.
-En tapant cette adresse (il y a un k en trop, non ?), votre clavier a essayé de fusionner deux dimensions d'Internet totalement incompatibles.
+Vous avez demandé :
 
-Que s'est-il passé en coulisses ?
+> newgekko.com
 
-1 - *Friction locale* : Votre navigateur a cru bon de traduire votre requête en mélangeant deux mondes qui n'ont rien à voir. Cela a créé de petites étincelles conceptuelles.
+Le site attendu est :
 
-2 - *Panique de l'audit interne* : Notre système de diagnostic a remarqué que les règles de la physique de ce site ne correspondaient plus à ce que vous cherchiez.
+> newgekko.com
 
-3 - *Le vigile de la cohérence a dit "NON"* : Pour éviter que votre écran ne s'effondre dans un paradoxe logique absolu, notre pare-feu a bloqué la transition. Il refuse de transformer une simple faute de frappe en trou noir.
+Il y a donc **un k en trop**.
 
-**Où êtes-vous actuellement ?**
+Nous aurions pu nous contenter de vous dire que l’adresse est incorrecte.  
+Mais nos procédures internes ont malheureusement déjà commencé à analyser les conséquences.
 
-Vous êtes dans une *zone de rupture*. Ce n'est pas une simple "Erreur 404". C'est un espace suspendu, très instable, où les mots et les clics n'ont plus vraiment de sens. Ne restez pas trop longtemps, c'est mauvais pour le karma numérique.
+## 1. Identification de l’anomalie
 
-👉 Initier une transition sécurisée vers le VRAI site (newgekko.com)
-(Promis, de l'autre côté, les choses sont beaucoup plus stables).
+Le caractère supplémentaire a été repéré à la position prévue pour le second « k ».
+
+Après vérification, il ne s’agit :
+
+- ni d'une nouvelle fonctionnalité ;
+- ni d'une variante du site ;
+- ni d'une revendication territoriale ;
+- ni, à ce stade, d'une nouvelle dimension d'Internet.
+
+L'hypothèse de la simple faute de frappe reste privilégiée.
+
+## 2. Ouverture de l'enquête
+
+Le système a néanmoins dû déterminer si **newgekko** pouvait désigner autre chose que **newgekko**.
+
+Cette question s'est révélée plus difficile que prévu.
+
+Nous avons donc suspendu temporairement :
+
+- la vérification du site ;
+- la cohérence des noms ;
+- et toute conclusion concernant la nature exacte du « k » supplémentaire.
+
+## 3. Décision du comité de cohérence
+
+Après examen, il a été décidé qu'un caractère de trop ne constituait pas une raison suffisante pour provoquer l'effondrement du Web.
+
+La transition est donc autorisée.
+
+**Où voulez-vous aller ?**
+
+👉 [Accéder à newgekko.com](https://newgekko.com/)
+
+---
+
+Et si vous êtes arrivé ici volontairement :  
+nous aimerions beaucoup savoir pourquoi.
